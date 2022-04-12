@@ -1,0 +1,18 @@
+[submodule "benchmarks"]
+	path = benchmarks
+	url = https://github.com/paulmcarpenter/cluster-dlb-benchmarks.git
+[submodule "rebalance"]
+	path = rebalance
+	url = https://github.com/paulmcarpenter/cluster-dlb-rebalance.git
+[submodule "runtools"]
+	path = runtools
+	url = https://github.com/paulmcarpenter/cluster-dlb-runtools.git
+[submodule "graphgen"]
+	path = graphgen
+	url = https://github.com/paulmcarpenter/cluster-dlb-graphgen.git
+[submodule "mcxx"]
+	path = mcxx
+	url = https://github.com/bsc-pm/mcxx.git
+[submodule "nanos6-cluster"]
+	path = nanos6-cluster
+	url = https://github.com/paulmcarpenter/nanos6-cluster-dlb.git
